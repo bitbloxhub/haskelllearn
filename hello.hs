@@ -1,2 +1,1 @@
-main = do
-    putStrLn "hello from hello.hs"
+main = putStrLn "hello from hello.hs"
